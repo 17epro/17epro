@@ -3,7 +3,7 @@
   
 
   <!-- Profile Image -->
-  <img src="https://m.media-amazon.com/images/I/416yhU1GEaS._AC_UF894,1000_QL80_.jpg" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px; position: relative; z-index: 1;">
+  <img src="https://m.media-amazon.com/images/I/416yhU1GEaS._AC_UF894,1000_QL80_.jpg" alt="Profile Image" style="border:1px solid transparent; border-radius: 100%; width: 150px; height: 150px; position: relative; z-index: 1;">
 
   <!-- Introduction -->
   <h1>Hello, I'm Rahul</h1>
@@ -21,12 +21,12 @@
 
   <!-- Professional Profiles with Icons -->
   <h2>👔 Professional Profiles</h2>
-  <a href="https://www.linkedin.com/in/mrr17e/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="LinkedIn Icon" style="width: 30px; height: 30px;"></a>
-  <a href="https://github.com/17epro" target="_blank"><img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" alt="GitHub Icon" style="width: 30px; height: 30px;"></a>
-  <a href="https://www.codingninjas.com/studio/profile/mr17e" target="_blank"><img src="https://levelupcollege.com/wp-content/uploads/2021/10/coding-ninjas-logo-white.png" alt="Coding Ninjas Icon" style="width: 30px; height: 30px;"></a>
-  <a href="https://auth.geeksforgeeks.org/user/rahulmeen0vvz" target="_blank"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210419113249/gfg-new-logo-min.png" alt="Coding Ninjas Icon" style="width: 30px; height: 30px;"></a>
-  <a href="https://www.sololearn.com/profile/30231644" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/1280px-SoloLearn_logo.svg.png" alt="Coding Ninjas Icon" style="width: 30px; height: 30px;"></a>
-  <a href="https://leetcode.com/mrr17e/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="Coding Ninjas Icon" style="width: 30px; height: 30px;"></a>
+  <a href="https://www.linkedin.com/in/mrr17e/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="LinkedIn Icon" style="width: 90px; height: 40px;"></a>
+  <a href="https://github.com/17epro" target="_blank"><img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" alt="GitHub Icon" style="width: 90px; height: 40px;"></a>
+  <a href="https://www.codingninjas.com/studio/profile/mr17e" target="_blank"><img src="https://levelupcollege.com/wp-content/uploads/2021/10/coding-ninjas-logo-white.png" alt="Coding Ninjas Icon" style="width: 90px; height: 40px;"></a>
+  <a href="https://auth.geeksforgeeks.org/user/rahulmeen0vvz" target="_blank"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210419113249/gfg-new-logo-min.png" alt="Coding Ninjas Icon" style="width: 90px; height: 40px;"></a>
+  <a href="https://www.sololearn.com/profile/30231644" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/1280px-SoloLearn_logo.svg.png" alt="Coding Ninjas Icon" style="width: 90px; height: 40px;"></a>
+  <a href="https://leetcode.com/mrr17e/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="Coding Ninjas Icon" style="width: 90px; height: 40px;"></a>
   <!-- Add similar lines for other professional profiles -->
 
   <!-- Campus Ambassador Roles -->
