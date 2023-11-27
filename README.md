@@ -1,15 +1,12 @@
 <div id="profile-container" style="position: relative; background-color: #1a1a1a; color: #ffffff; padding: 20px; border-radius: 10px; overflow: hidden;">
 
-  <!-- Animated Background -->
-  <div id="animated-bg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
-    <img src="background-image.jpg" alt="Animated Background" style="width: 100%; height: 100%; object-fit: cover; filter: brightness(70%);">
-  </div>
+  
 
   <!-- Profile Image -->
-  <img src="your_profile_image_url.jpg" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px; position: relative; z-index: 1;">
+  <img src="https://s7280.pcdn.co/wp-content/uploads/2021/05/Top-Programming-Languages.png" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px; position: relative; z-index: 1;">
 
   <!-- Introduction -->
-  <h1>Hello, I'm [Your Name]</h1>
+  <h1>Hello, I'm Rahul</h1>
   <p>🚀 Aspiring Integrated MCA | Passionate about coding, problem-solving, and learning new technologies.</p>
 
   <!-- Tech Stack -->
@@ -18,9 +15,9 @@
 
   <!-- Social Profiles with Icons -->
   <h2>🌐 Social Profiles</h2>
-  <a href="https://twitter.com/your_twitter" target="_blank"><img src="twitter-icon.png" alt="Twitter Icon" style="width: 30px; height: 30px;"></a>
-  <a href="https://instagram.com/your_instagram" target="_blank"><img src="instagram-icon.png" alt="Instagram Icon" style="width: 30px; height: 30px;"></a>
-  <a href="https://t.me/your_telegram" target="_blank"><img src="telegram-icon.png" alt="Telegram Icon" style="width: 30px; height: 30px;"></a>
+  <a href="https://twitter.com/your_twitter" target="_blank"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter Icon" style="width: 30px; height: 30px;"></a>
+  <a href="https://instagram.com/your_instagram" target="_blank"><img src="https://pbs.twimg.com/profile_images/1526231349354303489/3Bg-2ZsT_400x400.jpg" alt="Instagram Icon" style="width: 30px; height: 30px;"></a>
+  <a href="https://t.me/your_telegram" target="_blank"><img src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q" alt="Telegram Icon" style="width: 30px; height: 30px;"></a>
 
   <!-- Professional Profiles with Icons -->
   <h2>👔 Professional Profiles</h2>
@@ -35,11 +32,11 @@
 
   <!-- Hobbies and Activities -->
   <h2>🌟 Hobbies and Activities</h2>
-  <p>🔍 Interact, play CTF challenges, blogging, learn new things</p>
+  <p>🔍 Play CTF challenges, blogging, learn new things</p>
 
   <!-- Websites -->
   <h2>🌐 Websites</h2>
-  <a href="https://ip1jnvkarauli.blogspot.com" target="_blank">ip1jnvkarauli.blogspot.com</a>
+  <p style="color:white; background:green; border: 1px solid green; border-radius: 5px; font-size: 26px;"><a href="https://ip1jnvkarauli.blogspot.com" target="_blank">ip1jnvkarauli.blogspot.com</a></p>
 
   <!-- Volunteer Work -->
   <h2>🤝 Volunteer Work</h2>
