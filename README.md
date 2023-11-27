@@ -1,104 +1,47 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - GitHub Profile</title>
-    <style>
-        body {
-            background-color: #1e1e1e;
-            color: #ffffff;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-        }
+<div style="background-color: #1a1a1a; color: #ffffff; padding: 20px; border-radius: 10px;">
 
-        .container {
-            max-width: 800px;
-            text-align: center;
-        }
+  <!-- Profile Image -->
+  <img src="your_profile_image_url.jpg" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
 
-        h1 {
-            color: #61dafb;
-        }
+  <!-- Introduction -->
+  <h1>Hello, I'm [Your Name]</h1>
+  <p>🚀 Aspiring Integrated MCA | Passionate about coding, problem-solving, and learning new technologies.</p>
 
-        p {
-            font-size: 18px;
-            line-height: 1.6;
-        }
+  <!-- Tech Stack -->
+  <h2>🛠️ Tech Stack</h2>
+  <p>HTML | CSS | Python | C | C++ | DSA | DBMS</p>
 
-        .skills {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 10px;
-            margin-top: 20px;
-        }
+  <!-- Social Profiles -->
+  <h2>🌐 Social Profiles</h2>
+  <a href="https://twitter.com/your_twitter" target="_blank">Twitter</a> |
+  <a href="https://instagram.com/your_instagram" target="_blank">Instagram</a> |
+  <a href="https://t.me/your_telegram" target="_blank">Telegram</a>
 
-        .badge {
-            background-color: #282c34;
-            color: #61dafb;
-            padding: 8px 16px;
-            border-radius: 5px;
-        }
+  <!-- Professional Profiles -->
+  <h2>👔 Professional Profiles</h2>
+  <a href="https://linkedin.com/in/your_linkedin" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/your_github" target="_blank">GitHub</a> |
+  <a href="https://www.codingninjas.com/profiles/your_codingninjas" target="_blank">Coding Ninjas</a> |
+  <a href="https://www.sololearn.com/Profile/your_sololearn" target="_blank">SoloLearn</a> |
+  <a href="https://geeksforgeeks.org/user/your_geeksforgeeks" target="_blank">GeeksforGeeks</a> |
+  <a href="https://leetcode.com/your_leetcode" target="_blank">LeetCode</a> |
+  <a href="https://www.interviewbit.com/profile/your_interviewbit" target="_blank">InterviewBit</a> |
+  <a href="https://zuno.zunopay.com/user/profile" target="_blank">Zuno</a>
 
-        .social-icons {
-            margin-top: 20px;
-        }
+  <!-- Campus Ambassador Roles -->
+  <h2>🎓 Campus Ambassador</h2>
+  <p>GeeksforGeeks | Zuno (Leadership Skills)</p>
 
-        .social-icons a {
-            text-decoration: none;
-            color: #61dafb;
-            margin: 0 10px;
-            font-size: 24px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Your Name</h1>
-        <p>
-            Integrated MCA student passionate about programming and problem-solving.
-            Experienced in HTML, CSS, Python, C, C++, Data Structures and Algorithms, and DBMS.
-            Currently exploring cybersecurity through CTF challenges and blogging.
-        </p>
+  <!-- Hobbies and Activities -->
+  <h2>🌟 Hobbies and Activities</h2>
+  <p>🔍 Interact, play CTF challenges, blogging, learn new things</p>
 
-        <div class="skills">
-            <span class="badge">HTML</span>
-            <span class="badge">CSS</span>
-            <span class="badge">Python</span>
-            <span class="badge">C</span>
-            <span class="badge">C++</span>
-            <span class="badge">DSA</span>
-            <span class="badge">DBMS</span>
-        </div>
+  <!-- Websites -->
+  <h2>🌐 Websites</h2>
+  <a href="https://ip1jnvkarauli.blogspot.com" target="_blank">ip1jnvkarauli.blogspot.com</a>
 
-        <div class="social-icons">
-            <a href="https://twitter.com/your_twitter" target="_blank">&#x1F426;</a>
-            <a href="https://www.instagram.com/your_instagram" target="_blank">&#x1F3A9;</a>
-            <a href="https://t.me/your_telegram" target="_blank">&#x1F4E9;</a>
-            <a href="https://www.linkedin.com/in/your_linkedin" target="_blank">&#x1F4CB;</a>
-            <a href="https://github.com/your_github" target="_blank">&#x1F4BB;</a>
-            <a href="https://www.codingninjas.com/" target="_blank">Coding Ninjas</a>
-            <a href="https://www.sololearn.com/" target="_blank">SoloLearn</a>
-            <a href="https://www.geeksforgeeks.org/" target="_blank">GeeksforGeeks</a>
-            <a href="https://leetcode.com/your_username/" target="_blank">LeetCode</a>
-            <a href="https://www.inctf.in/" target="_blank">InCTF</a>
-            <a href="https://www.interviewbit.com/" target="_blank">InterviewBit</a>
-            <a href="https://zuno.in/" target="_blank">Zuno</a>
-        </div>
+  <!-- Volunteer Work -->
+  <h2>🤝 Volunteer Work</h2>
+  <p>Google Map | Google CloudSource</p>
 
-        <p>
-            Campus Ambassador at Zuno and GeeksforGeeks, showcasing leadership skills.
-            Actively participating in CTF challenges, blogging, and continuous learning.
-            Work as a volunteer in Google Map and Google Cloud Source.
-        </p>
-
-        <p>Visit my website: <a href="https://ip1jnvkarauli.blogspot.com/" target="_blank">ip1jnvkarauli.blogspot.com</a></p>
-    </div>
-</body>
-</html>
+</div>
