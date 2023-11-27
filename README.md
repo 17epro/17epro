@@ -1,79 +1,104 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - GitHub Profile</title>
-  <style>
-    body {
-      background-color: #1e1e1e;
-      color: #ffffff;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - GitHub Profile</title>
+    <style>
+        body {
+            background-color: #1e1e1e;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
 
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
+        .container {
+            max-width: 800px;
+            text-align: center;
+        }
 
-    h1 {
-      color: #61dafb;
-    }
+        h1 {
+            color: #61dafb;
+        }
 
-    h2 {
-      color: #29b6f6;
-    }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
 
-    p {
-      font-size: 1.1em;
-    }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 20px;
+        }
 
-    .social-icons a {
-      text-decoration: none;
-      color: #ffffff;
-      margin-right: 15px;
-      font-size: 1.5em;
-    }
-  </style>
+        .badge {
+            background-color: #282c34;
+            color: #61dafb;
+            padding: 8px 16px;
+            border-radius: 5px;
+        }
+
+        .social-icons {
+            margin-top: 20px;
+        }
+
+        .social-icons a {
+            text-decoration: none;
+            color: #61dafb;
+            margin: 0 10px;
+            font-size: 24px;
+        }
+    </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Your Full Name</h1>
-    <h2>Integrated MCA Student | Programmer | Campus Ambassador</h2>
-    <p>Hello! I'm a passionate programmer pursuing integrated MCA. I have experience in HTML, CSS, Python, C, C++, and data structures and algorithms (DSA).</p>
+    <div class="container">
+        <h1>Your Name</h1>
+        <p>
+            Integrated MCA student passionate about programming and problem-solving.
+            Experienced in HTML, CSS, Python, C, C++, Data Structures and Algorithms, and DBMS.
+            Currently exploring cybersecurity through CTF challenges and blogging.
+        </p>
 
-    <h2>Skills</h2>
-    <p>Programming Languages: HTML, CSS, Python, C, C++</p>
-    <p>Other Skills: Data Structures and Algorithms, Database Management (DBMS)</p>
+        <div class="skills">
+            <span class="badge">HTML</span>
+            <span class="badge">CSS</span>
+            <span class="badge">Python</span>
+            <span class="badge">C</span>
+            <span class="badge">C++</span>
+            <span class="badge">DSA</span>
+            <span class="badge">DBMS</span>
+        </div>
 
-    <h2>Professional Profiles</h2>
-    <p>LinkedIn: [Your LinkedIn Profile](link)</p>
-    <p>GitHub: [Your GitHub Profile](link)</p>
-    <p>Coding Ninjas, SoloLearn, GeeksforGeeks, LeetCode, InCTF, InterviewBit, Zuno</p>
+        <div class="social-icons">
+            <a href="https://twitter.com/your_twitter" target="_blank">&#x1F426;</a>
+            <a href="https://www.instagram.com/your_instagram" target="_blank">&#x1F3A9;</a>
+            <a href="https://t.me/your_telegram" target="_blank">&#x1F4E9;</a>
+            <a href="https://www.linkedin.com/in/your_linkedin" target="_blank">&#x1F4CB;</a>
+            <a href="https://github.com/your_github" target="_blank">&#x1F4BB;</a>
+            <a href="https://www.codingninjas.com/" target="_blank">Coding Ninjas</a>
+            <a href="https://www.sololearn.com/" target="_blank">SoloLearn</a>
+            <a href="https://www.geeksforgeeks.org/" target="_blank">GeeksforGeeks</a>
+            <a href="https://leetcode.com/your_username/" target="_blank">LeetCode</a>
+            <a href="https://www.inctf.in/" target="_blank">InCTF</a>
+            <a href="https://www.interviewbit.com/" target="_blank">InterviewBit</a>
+            <a href="https://zuno.in/" target="_blank">Zuno</a>
+        </div>
 
-    <h2>Campus Ambassador</h2>
-    <p>GeeksforGeeks (Leadership Skills)</p>
-    <p>Zuno</p>
+        <p>
+            Campus Ambassador at Zuno and GeeksforGeeks, showcasing leadership skills.
+            Actively participating in CTF challenges, blogging, and continuous learning.
+            Work as a volunteer in Google Map and Google Cloud Source.
+        </p>
 
-    <h2>Other Activities</h2>
-    <p>Interact and play CTF challenges, blogging, and constantly learning new things.</p>
-
-    <h2>Websites</h2>
-    <p>Blog: [Your Blog](https://ip1jnvkarauli.blogspot.com/)</p>
-
-    <h2>Volunteer Work</h2>
-    <p>Google Map, Google CloudSource</p>
-
-    <h2>Connect with Me</h2>
-    <div class="social-icons">
-      <a href="https://twitter.com/YourTwitter" target="_blank">Twitter</a>
-      <a href="https://instagram.com/YourInstagram" target="_blank">Instagram</a>
-      <a href="https://telegram.me/YourTelegram" target="_blank">Telegram</a>
+        <p>Visit my website: <a href="https://ip1jnvkarauli.blogspot.com/" target="_blank">ip1jnvkarauli.blogspot.com</a></p>
     </div>
-  </div>
 </body>
 </html>
-
