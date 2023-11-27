@@ -63,7 +63,7 @@
 </div>
 
 
-<style>
+
   @color: #5bc0eb;
 
 * {
@@ -292,7 +292,7 @@ body {
     }
 }
 
-</style>
+
 <div class='animation-example'>
     <div class='item'>
         <div class='line'></div>
