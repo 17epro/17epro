@@ -15,9 +15,9 @@
 
   <!-- Social Profiles with Icons -->
   <h2>🌐 Social Profiles</h2>
-  <a href="https://twitter.com/@mrr17e" target="_blank"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter Icon" style="width: 30px; height: 30px;"/></a>
-  <a href="https://instagram.com/@mr.r17e" target="_blank"><img src="https://pbs.twimg.com/profile_images/1526231349354303489/3Bg-2ZsT_400x400.jpg" alt="Instagram Icon" style="width: 30px; height: 30px;"/></a>
-  <a href="https://t.me/@mrr17e" target="_blank"><img src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q" alt="Telegram Icon" style="width: 30px; height: 30px;"/></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter Icon" style="width: 30px; height: 30px;"/></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1526231349354303489/3Bg-2ZsT_400x400.jpg" alt="Instagram Icon" style="width: 30px; height: 30px;"/></a>
+  <a href="https://t.me/" target="_blank"><img src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q" alt="Telegram Icon" style="width: 30px; height: 30px;"/></a>
 
   <!-- Professional Profiles with Icons -->
   <h2>👔 Professional Profiles</h2>
